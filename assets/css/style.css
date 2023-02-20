@@ -113,7 +113,7 @@ content {
 }
 
 /* changed class section benefits to benefits element*/
-benefits {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -126,14 +126,14 @@ benefits {
 
 /*added benefits together and deleted repeating code*, added padding-bottom*/
 
-benefit {
+.benefit {
     margin-bottom: 32px;
     padding-bottom: 20px;
     color: #ffffff;
 }
 
-/*deleted repeating code and only used h3 inseatd of benefits plus h3*/
-h3 {
+/*deleted repeating code*/
+.benefit h3 {
     margin-top: 30px;
     margin-bottom: 20px;
     text-align: center;
@@ -142,7 +142,7 @@ h3 {
 
 /*added benefits together because of repeating code*/
 
-benefit img  {
+.benefit img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
