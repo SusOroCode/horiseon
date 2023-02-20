@@ -2,7 +2,7 @@
 
 ## Horiseon Code Refactor
 
-In this challenge, I was assigned to refactor the existing website for the marketing agency "Horiseon Social Solution Services, Inc". The purpose of the refactor is to make this website more accessible.
+In this challenge, I was assigned to refactor the existing website for the marketing agency "Horiseon Social Solution Services, Inc". The purpose of the refactor is to make the website more accessible.
 
 
 ## Table of Contents 
