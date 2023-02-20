@@ -82,7 +82,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -112,8 +112,8 @@ p {
     font-size: 36px;
 }
 
-
-.benefits {
+/* changes class section benefits to benefits element*/
+benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -124,23 +124,25 @@ p {
     background-color: #2589bd;
 }
 
-/*added benefits together and deleted repeating code*/
+/*added benefits together and deleted repeating code*, added padding-bottom*/
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+benefit {
     margin-bottom: 32px;
+    padding-bottom: 20px;
     color: #ffffff;
 }
 
 /*deleted repeating code and only used h3 inseatd of benefits plus h3*/
 h3 {
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
 
 /*added benefits together because of repeating code*/
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+benefit img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
