@@ -90,8 +90,8 @@ content {
 
 /*moved main section up to add h2 under h1 and change style sheet to chronoligical order of website*/
 
-/*grouped article names together and deleted repeating code*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+/*used details class and deleted repeating code*/
+.details  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,19 +100,19 @@ content {
     color: #ffffff;
 }
 
-/* grouped article img names together and deleted dupicate code*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+/* used details class and deleted dupicate code*/
+.details img {
     max-height: 200px;
 }
 
 
-/*grouped attributes together and deleted dupicate code*/
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+/*used details class and deleted dupicate code*/
+.details h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* changes class section benefits to benefits element*/
+/* changed class section benefits to benefits element*/
 benefits {
     margin-right: 20px;
     padding: 20px;
