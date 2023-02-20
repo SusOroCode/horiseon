@@ -100,19 +100,19 @@ content {
     color: #ffffff;
 }
 
-/* used details class and deleted dupicate code*/
+/* used details class and deleted duplicate code*/
 .details img {
     max-height: 200px;
 }
 
 
-/*used details class and consolidated dupicate code*/
+/*used details class and consolidated duplicate code*/
 .details h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* changed class section benefits to benefits element*/
+/* changed div to class section benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +124,7 @@ content {
     background-color: #2589bd;
 }
 
-/*added benefits together and consolidated repeating code*, added padding-bottom*/
+/*added benefits together and consolidated repeating code, added padding-bottom*/
 
 .benefit {
     margin-bottom: 32px;
@@ -140,7 +140,7 @@ content {
 }
 
 
-/*added benefits together because of repeating code*/
+/*added benefits together and deleted repeating code*/
 
 .benefit img  {
     display: block;
@@ -149,7 +149,7 @@ content {
 }
 
 
-/*took out . before footer because changed div to footer in html*/
+/*took out . before footer, changed div to footer in html*/
 footer {
     padding: 30px;
     clear: both;
