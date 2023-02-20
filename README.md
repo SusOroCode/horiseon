@@ -4,8 +4,6 @@
 
 In this challenge, I was assigned to refactor the existing website for the marketing agency "Horiseon Social Solution Services, Inc". The purpose of the refactor is to make this website more accessible.
 
-<br>
-<br>
 
 ## Table of Contents 
 
@@ -13,9 +11,6 @@ In this challenge, I was assigned to refactor the existing website for the marke
 - [Screenshot](#screenshot)
 - [Link To Horiseon Website](#link)
 
-
-<br>
-<br>
 
 ## Refactor
 
@@ -27,8 +22,6 @@ In this challenge, I was assigned to refactor the existing website for the marke
 6) Removed irrelevant CSS classes
 7) Consolidated code and added notes to see and undertsand changes
 
-<br>
-<br>
 
 ## Screenshot
 
@@ -36,8 +29,6 @@ Please refer to Horiseon Website screenshot.
 
 ![Horiseon Refactored Website](assets/images/Horiseon-Refactored-Website.png)
 
-<br>
-<br>
 
 ## Link
 
