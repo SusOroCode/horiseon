@@ -59,6 +59,8 @@ p {
     font-size: 16px;
 }
 
+/*HERO COVER*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -85,6 +87,31 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*moved main section up to add h2 under h1 and change style sheet to chronoligical order of website*/
+
+/*grouped article names together and deleted repeating code*/
+.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* grouped article img names together and deleted dupicate code*/
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+    max-height: 200px;
+}
+
+
+/*grouped attributes together and deleted dupicate code*/
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 
 .benefits {
     margin-right: 20px;
@@ -119,36 +146,7 @@ h3 {
     max-width: 150px;
 }
 
-/*grouped article names together and deleted repeating code*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-/* grouped article img names together and deleted dupicate code*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
-}
-
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*took out . before footer because changed div to footer in html*/
 footer {
     padding: 30px;
