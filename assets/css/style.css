@@ -106,7 +106,7 @@ content {
 }
 
 
-/*used details class and deleted dupicate code*/
+/*used details class and consolidated dupicate code*/
 .details h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -124,7 +124,7 @@ content {
     background-color: #2589bd;
 }
 
-/*added benefits together and deleted repeating code*, added padding-bottom*/
+/*added benefits together and consolidated repeating code*, added padding-bottom*/
 
 .benefit {
     margin-bottom: 32px;

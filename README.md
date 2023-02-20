@@ -2,7 +2,7 @@
 
 ## Horiseon Code Refactor
 
-In this challenge, I was assigned to refactor the existing website for the marketing agency Horiseon to make it more accessible. 
+In this challenge, I was assigned to refactor the existing website for the marketing agency "Horiseon Social Solution Services, Inc". The purpose of the refactor is to make this website more accessible.
 
 
 
@@ -11,16 +11,20 @@ In this challenge, I was assigned to refactor the existing website for the marke
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Refactor](#refactor)
-- [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
 ## Refactor
 
-1) Added document title in HEAD Element for SEO purposes
-2) Changed repeated div to section and nav in BODY Element
+1) Made sure all links work properly
+2) Added a title to document for SEO
+3) Used structure and semantic HTML elements to make it easy to read
+4) Added accessible alt attributes
+5) Structured and updated CSS according to the smeantic HTML structure
+6) Consolidated code and added notes to see and undertsand changes
 
-## Usage
+## Screenshot
 
 Provide instructions and examples for use. Include screenshots as needed.
 
