@@ -82,7 +82,7 @@ p {
     margin-left: 25px;
 }
 
-content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -113,7 +113,7 @@ content {
 }
 
 /* changed div to class section benefits*/
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -126,14 +126,14 @@ content {
 
 /*added benefits together and consolidated repeating code, added padding-bottom*/
 
-.benefit {
+aside section {
     margin-bottom: 32px;
     padding-bottom: 20px;
     color: #ffffff;
 }
 
 /*deleted repeating code*/
-.benefit h3 {
+aside section h3 {
     margin-top: 30px;
     margin-bottom: 20px;
     text-align: center;
@@ -142,7 +142,7 @@ content {
 
 /*added benefits together and deleted repeating code*/
 
-.benefit img  {
+aside img  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
