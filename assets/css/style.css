@@ -11,7 +11,6 @@ body {
 }
 
 /*HEADER*/
-/*took class selecter header out and just used header in HTML, took the . out*/
 
 header {
     padding: 20px;
@@ -29,7 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*CHANGED DIV TO NAV*/
+/*ADDED HEADER AND CHANGED DIV TO NAV*/
 
 header nav {
     padding-top: 15px;
@@ -82,16 +81,16 @@ p {
     margin-left: 25px;
 }
 
+/*MAIN SECTION*/
+/*consolidated code*/
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*moved main section up to add h2 under h1 and change style sheet to chronoligical order of website*/
-
-/*used details class and deleted repeating code*/
-.details  {
+main article  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,19 +99,18 @@ main {
     color: #ffffff;
 }
 
-/* used details class and deleted duplicate code*/
-.details img {
+main img {
     max-height: 200px;
 }
 
-
-/*used details class and consolidated duplicate code*/
-.details h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* changed div to class section benefits*/
+/*SIDEBAR*/
+/*consolidated code*/
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -124,23 +122,18 @@ aside {
     background-color: #2589bd;
 }
 
-/*added benefits together and consolidated repeating code, added padding-bottom*/
-
 aside section {
     margin-bottom: 32px;
     padding-bottom: 20px;
     color: #ffffff;
 }
 
-/*deleted repeating code*/
 aside section h3 {
     margin-top: 30px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-
-/*added benefits together and deleted repeating code*/
 
 aside img  {
     display: block;
