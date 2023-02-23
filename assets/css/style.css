@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*HEADER*/
+/*HEADER STYLES*/
 
 header {
     padding: 20px;
@@ -28,7 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*ADDED HEADER AND CHANGED DIV TO NAV*/
+/*ADDED HEADER ELEMENT AND CHANGED DIV TO NAV*/
 
 header nav {
     padding-top: 15px;
@@ -58,7 +58,7 @@ p {
     font-size: 16px;
 }
 
-/*HERO COVER*/
+/*HERO COVER STYLES*/
 
 .hero {
     height: 800px;
@@ -142,7 +142,8 @@ aside img  {
 }
 
 
-/*took out . before footer, changed div to footer in html*/
+/*FOOTER*/
+
 footer {
     padding: 30px;
     clear: both;
